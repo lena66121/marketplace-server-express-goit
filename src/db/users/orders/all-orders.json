@@ -1,0 +1,13 @@
+[{
+    "user": "da591010-4386-11ea-975e-39a9a35e4bc2",
+    "products": ["pizza"],
+    "deliveryType": "delivery",
+    "deliveryAddress": "Pechersk",
+    "orderId": "ea5c1150-4431-11ea-8556-db2e4b87422a"
+}, {
+    "user": "da591010-4386-11ea-975e-39a9a35e4bc2",
+    "products": ["appetizers"],
+    "deliveryType": "delivery",
+    "deliveryAddress": "Pechersk",
+    "orderId": "829e7680-4435-11ea-8e8c-7fc668f3617a"
+}]
